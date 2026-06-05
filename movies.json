@@ -1,16 +1,68 @@
 [
   {
     "title": "The Great Plastic Canyons",
-    "tagline": "Some pegs were meant to roll, others were meant to sit.",
+    "tagline": "The dust of the playroom rug never settles.",
     "genre": "Western",
-    "rating": "G",
-    "runtime": 92,
+    "rating": "PG",
+    "runtime": 105,
     "critic_rating": "4/5",
-    "synopsis": "A lone yellow sheriff peg must navigate the treacherous, dust-filled expanse of the shag carpet to rescue a stagecoach that has been abandoned near the base of a sofa cushion. Without arms to draw a revolver, he must rely on his superior balance and the sheer luck of the carpet fibers to thwart a gang of blue outlaws.",
-    "fun_fact": "The tumbleweeds in the film were actually real lint balls collected from the set technician's sweater after three weeks of filming.",
-    "poster_prompt": "A lone yellow peg figure in a molded plastic hat standing on a tan shaggy carpet desert landscape, a miniature red plastic stagecoach tipped over in the background, bright desert sunlight, vintage 1970s toy style, classic cylindrical peg people with two dots for eyes and a small curved painted-on smile, simple solid primary color bodies, smooth glossy plastic and wooden textures, studio lighting, macro product toy photography, beautiful creative composition, tilt-shift lens look",
+    "synopsis": "A lone cowboy with a glued-on felt hat navigates the treacherous peaks of a discarded pile of laundry, hoping to reach the Promised Land of the toy box before the giant toddler returns. He must outsmart a stampede of mismatched socks without ever being able to bend his knees or hold a lasso.",
+    "fun_fact": "The tumbleweeds were actually leftover bits of shag carpet from the soundstage floor that kept getting stuck in the actors' base-pegs.",
+    "poster_prompt": "A lone cylindrical peg-cowboy standing on a wooden floor, towering stacks of multicolored laundry surrounding him like mountains, a miniature yellow plastic horse nearby, vibrant primary colors, vintage 1970s toy style, classic cylindrical peg people with two dots for eyes and a small curved painted-on smile, simple solid primary color bodies, smooth glossy plastic and wooden textures, studio lighting, macro product toy photography, beautiful creative composition, tilt-shift lens look",
     "poster_image_path": "",
-    "github_image_url": "/api/proxy-image?engine=huggingface&prompt=A%20lone%20yellow%20peg%20figure%20in%20a%20molded%20plastic%20hat%20standing%20on%20a%20tan%20shaggy%20carpet%20desert%20landscape%2C%20a%20miniature%20red%20plastic%20stagecoach%20tipped%20over%20in%20the%20background%2C%20bright%20desert%20sunlight%2C%20vintage%201970s%20toy%20style%2C%20classic%20cylindrical%20peg%20people%20with%20two%20dots%20for%20eyes%20and%20a%20small%20curved%20painted-on%20smile%2C%20simple%20solid%20primary%20color%20bodies%2C%20smooth%20glossy%20plastic%20and%20wooden%20textures%2C%20studio%20lighting%2C%20macro%20product%20toy%20photography%2C%20beautiful%20creative%20composition%2C%20tilt-shift%20lens%20look&seed=5111&hfModel=black-forest-labs%2FFLUX.1-schnell"
+    "github_image_url": "/api/proxy-image?engine=huggingface&prompt=A%20lone%20cylindrical%20peg-cowboy%20standing%20on%20a%20wooden%20floor%2C%20towering%20stacks%20of%20multicolored%20laundry%20surrounding%20him%20like%20mountains%2C%20a%20miniature%20yellow%20plastic%20horse%20nearby%2C%20vibrant%20primary%20colors%2C%20vintage%201970s%20toy%20style%2C%20classic%20cylindrical%20peg%20people%20with%20two%20dots%20for%20eyes%20and%20a%20small%20curved%20painted-on%20smile%2C%20simple%20solid%20primary%20color%20bodies%2C%20smooth%20glossy%20plastic%20and%20wooden%20textures%2C%20studio%20lighting%2C%20macro%20product%20toy%20photography%2C%20beautiful%20creative%20composition%2C%20tilt-shift%20lens%20look&seed=5111&hfModel=black-forest-labs%2FFLUX.1-schnell"
+  },
+  {
+    "title": "Stuck in the Socket",
+    "tagline": "In the carpet, no one can hear you tip over.",
+    "genre": "Horror",
+    "rating": "PG-13",
+    "runtime": 92,
+    "critic_rating": "3/5",
+    "synopsis": "After being accidentally pushed under the sofa, a group of friends discovers the dark, lint-filled abyss where lost parts go to rot. They must avoid the predatory vacuum nozzle that threatens to suck them into a dimension of dust bunnies and terrifying hair ties.",
+    "fun_fact": "The actress playing the lead had to be pried out of a real floor vent with a butter knife three times during the production of the climax.",
+    "poster_prompt": "Dark shadows beneath a heavy wooden sofa, a single red peg-person peering out with wide dots for eyes, scattered lint and dust bunnies looming like monsters, a menacing vacuum hose in the background, vintage 1970s toy style, classic cylindrical peg people with two dots for eyes and a small curved painted-on smile, simple solid primary color bodies, smooth glossy plastic and wooden textures, studio lighting, macro product toy photography, beautiful creative composition, tilt-shift lens look",
+    "poster_image_path": "",
+    "github_image_url": "/api/proxy-image?engine=huggingface&prompt=Dark%20shadows%20beneath%20a%20heavy%20wooden%20sofa%2C%20a%20single%20red%20peg-person%20peering%20out%20with%20wide%20dots%20for%20eyes%2C%20scattered%20lint%20and%20dust%20bunnies%20looming%20like%20monsters%2C%20a%20menacing%20vacuum%20hose%20in%20the%20background%2C%20vintage%201970s%20toy%20style%2C%20classic%20cylindrical%20peg%20people%20with%20two%20dots%20for%20eyes%20and%20a%20small%20curved%20painted-on%20smile%2C%20simple%20solid%20primary%20color%20bodies%2C%20smooth%20glossy%20plastic%20and%20wooden%20textures%2C%20studio%20lighting%2C%20macro%20product%20toy%20photography%2C%20beautiful%20creative%20composition%2C%20tilt-shift%20lens%20look&seed=8745&hfModel=black-forest-labs%2FFLUX.1-schnell"
+  },
+  {
+    "title": "Love in the Drive-Thru",
+    "tagline": "She had a hat, he had a hitch, and they were stuck in the same plastic sedan.",
+    "genre": "Romance",
+    "rating": "G",
+    "runtime": 115,
+    "critic_rating": "5/5",
+    "synopsis": "Two peg-people are forced into the same two-seat plastic car, but because their bodies are solid cylinders, they cannot turn to look at each other or hold hands. Their romance blossoms through long, silent commutes across the kitchen linoleum and shared glances while waiting for the toddler to push them.",
+    "fun_fact": "The director insisted on using real magnets hidden under the floorboards to simulate the 'chemistry' between the two leads.",
+    "poster_prompt": "A bright blue plastic toy car with two cylindrical peg-people inside sitting side-by-side, sunlight hitting the glossy plastic surfaces, a checkerboard kitchen floor background, vintage 1970s toy style, classic cylindrical peg people with two dots for eyes and a small curved painted-on smile, simple solid primary color bodies, smooth glossy plastic and wooden textures, studio lighting, macro product toy photography, beautiful creative composition, tilt-shift lens look",
+    "poster_image_path": "",
+    "github_image_url": "/api/proxy-image?engine=huggingface&prompt=A%20bright%20blue%20plastic%20toy%20car%20with%20two%20cylindrical%20peg-people%20inside%20sitting%20side-by-side%2C%20sunlight%20hitting%20the%20glossy%20plastic%20surfaces%2C%20a%20checkerboard%20kitchen%20floor%20background%2C%20vintage%201970s%20toy%20style%2C%20classic%20cylindrical%20peg%20people%20with%20two%20dots%20for%20eyes%20and%20a%20small%20curved%20painted-on%20smile%2C%20simple%20solid%20primary%20color%20bodies%2C%20smooth%20glossy%20plastic%20and%20wooden%20textures%2C%20studio%20lighting%2C%20macro%20product%20toy%20photography%2C%20beautiful%20creative%20composition%2C%20tilt-shift%20lens%20look&seed=198&hfModel=black-forest-labs%2FFLUX.1-schnell"
+  },
+  {
+    "title": "The Ramp to Andromeda",
+    "tagline": "Gravity is just a suggestion when you have a flat base.",
+    "genre": "Sci-Fi",
+    "rating": "PG",
+    "runtime": 140,
+    "critic_rating": "2/5",
+    "synopsis": "An intrepid astronaut attempts to pilot a homemade cardboard rocket taped to the top of a plastic slide. He must overcome the terrifying descent into the 'crash zone' to save his fellow pegs from the dreaded toy-storage bin.",
+    "fun_fact": "The zero-gravity scenes were filmed by dangling the actors from a ceiling fan using dental floss, resulting in several broken paint-jobs.",
+    "poster_prompt": "A red plastic rocket ship made of blocks and cardboard, a green peg-person astronaut at the helm, a steep yellow plastic ramp leading into darkness, stars made of glitter on a black felt backdrop, vintage 1970s toy style, classic cylindrical peg people with two dots for eyes and a small curved painted-on smile, simple solid primary color bodies, smooth glossy plastic and wooden textures, studio lighting, macro product toy photography, beautiful creative composition, tilt-shift lens look",
+    "poster_image_path": "",
+    "github_image_url": "/api/proxy-image?engine=huggingface&prompt=A%20red%20plastic%20rocket%20ship%20made%20of%20blocks%20and%20cardboard%2C%20a%20green%20peg-person%20astronaut%20at%20the%20helm%2C%20a%20steep%20yellow%20plastic%20ramp%20leading%20into%20darkness%2C%20stars%20made%20of%20glitter%20on%20a%20black%20felt%20backdrop%2C%20vintage%201970s%20toy%20style%2C%20classic%20cylindrical%20peg%20people%20with%20two%20dots%20for%20eyes%20and%20a%20small%20curved%20painted-on%20smile%2C%20simple%20solid%20primary%20color%20bodies%2C%20smooth%20glossy%20plastic%20and%20wooden%20textures%2C%20studio%20lighting%2C%20macro%20product%20toy%20photography%2C%20beautiful%20creative%20composition%2C%20tilt-shift%20lens%20look&seed=5965&hfModel=black-forest-labs%2FFLUX.1-schnell"
+  },
+  {
+    "title": "A Day in the Life of a Peg",
+    "tagline": "It’s not easy being upright.",
+    "genre": "Documentary",
+    "rating": "G",
+    "runtime": 85,
+    "critic_rating": "5/5",
+    "synopsis": "This revealing look into the daily struggles of peg-people explores the physical impossibility of sitting down, eating, or using any of the tools scattered throughout the playroom. It provides a sobering look at how hard it is to maintain a perfect smile while being constantly chewed on by the family dog.",
+    "fun_fact": "The voiceover narrator was actually a Fisher-Price employee who had been talking to these toys for forty years.",
+    "poster_prompt": "A wide shot of a messy nursery filled with primary-colored blocks, a single yellow peg-person standing in the center looking at the camera, a massive dog paw in the blurry foreground, soft natural light from a window, vintage 1970s toy style, classic cylindrical peg people with two dots for eyes and a small curved painted-on smile, simple solid primary color bodies, smooth glossy plastic and wooden textures, studio lighting, macro product toy photography, beautiful creative composition, tilt-shift lens look",
+    "poster_image_path": "",
+    "github_image_url": "/api/proxy-image?engine=huggingface&prompt=A%20wide%20shot%20of%20a%20messy%20nursery%20filled%20with%20primary-colored%20blocks%2C%20a%20single%20yellow%20peg-person%20standing%20in%20the%20center%20looking%20at%20the%20camera%2C%20a%20massive%20dog%20paw%20in%20the%20blurry%20foreground%2C%20soft%20natural%20light%20from%20a%20window%2C%20vintage%201970s%20toy%20style%2C%20classic%20cylindrical%20peg%20people%20with%20two%20dots%20for%20eyes%20and%20a%20small%20curved%20painted-on%20smile%2C%20simple%20solid%20primary%20color%20bodies%2C%20smooth%20glossy%20plastic%20and%20wooden%20textures%2C%20studio%20lighting%2C%20macro%20product%20toy%20photography%2C%20beautiful%20creative%20composition%2C%20tilt-shift%20lens%20look&seed=1671&hfModel=black-forest-labs%2FFLUX.1-schnell"
   },
   {
     "title": "Out of the Storage Bin",
@@ -63,19 +115,6 @@
     "poster_prompt": "A group of pegs trapped inside a metallic box with spinning plates, glowing red heat waves emitting from the side, futuristic plastic panels, vintage 1970s toy style, classic cylindrical peg people with two dots for eyes and a small curved painted-on smile, simple solid primary color bodies, smooth glossy plastic and wooden textures, studio lighting, macro product toy photography, beautiful creative composition, tilt-shift lens look",
     "poster_image_path": "",
     "github_image_url": "/api/proxy-image?engine=huggingface&prompt=A%20group%20of%20pegs%20trapped%20inside%20a%20metallic%20box%20with%20spinning%20plates%2C%20glowing%20red%20heat%20waves%20emitting%20from%20the%20side%2C%20futuristic%20plastic%20panels%2C%20vintage%201970s%20toy%20style%2C%20classic%20cylindrical%20peg%20people%20with%20two%20dots%20for%20eyes%20and%20a%20small%20curved%20painted-on%20smile%2C%20simple%20solid%20primary%20color%20bodies%2C%20smooth%20glossy%20plastic%20and%20wooden%20textures%2C%20studio%20lighting%2C%20macro%20product%20toy%20photography%2C%20beautiful%20creative%20composition%2C%20tilt-shift%20lens%20look&seed=8728&hfModel=black-forest-labs%2FFLUX.1-schnell"
-  },
-  {
-    "title": "Stuck in the Socket",
-    "tagline": "No hands, no escape.",
-    "genre": "Horror",
-    "rating": "PG-13",
-    "runtime": 88,
-    "critic_rating": "2/5",
-    "synopsis": "A young peg doll finds himself accidentally inserted into a car-seat hole that was never meant for his specific body type. As the toddler god approaches with a slobbering canine companion, he realizes he is permanently locked in place.",
-    "fun_fact": "The 'monster' puppy was actually a terrifying mechanical animatronic that kept losing its fur, forcing the production crew to glue real faux-fur patches onto the set floor every three minutes.",
-    "poster_prompt": "A red peg-bodied doll trapped deep inside a circular plastic hole of a yellow toy school bus, shadows looming over him from above, dramatic horror lighting, vintage 1970s toy style, classic cylindrical peg people with two dots for eyes and a small curved painted-on smile, simple solid primary color bodies, smooth glossy plastic and wooden textures, studio lighting, macro product toy photography, beautiful creative composition, tilt-shift lens look",
-    "poster_image_path": "",
-    "github_image_url": "/api/proxy-image?engine=huggingface&prompt=A%20red%20peg-bodied%20doll%20trapped%20deep%20inside%20a%20circular%20plastic%20hole%20of%20a%20yellow%20toy%20school%20bus%2C%20shadows%20looming%20over%20him%20from%20above%2C%20dramatic%20horror%20lighting%2C%20vintage%201970s%20toy%20style%2C%20classic%20cylindrical%20peg%20people%20with%20two%20dots%20for%20eyes%20and%20a%20small%20curved%20painted-on%20smile%2C%20simple%20solid%20primary%20color%20bodies%2C%20smooth%20glossy%20plastic%20and%20wooden%20textures%2C%20studio%20lighting%2C%20macro%20product%20toy%20photography%2C%20beautiful%20creative%20composition%2C%20tilt-shift%20lens%20look&seed=8745&hfModel=black-forest-labs%2FFLUX.1-schnell"
   },
   {
     "title": "The Love of the Ramp",
