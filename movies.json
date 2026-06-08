@@ -1,5 +1,70 @@
 [
   {
+    "title": "The Great Carpet Divide",
+    "tagline": "A long journey for a peg without wheels.",
+    "genre": "Western",
+    "rating": "PG",
+    "runtime": 112,
+    "critic_rating": "4/5",
+    "synopsis": "A lone sheriff with a red hat must navigate the treacherous high-pile rug territory to save a fallen comrade trapped under a heavy wooden block. Without arms to reach the holster or legs to walk, he must rely on the centrifugal force of the playroom floor to reach his destination.",
+    "fun_fact": "The desert sand in the film was actually just unpopped popcorn kernels from the toy designer's kitchen.",
+    "poster_prompt": "A single blue peg person with a red cowboy hat standing on a shag carpet desert, a giant wooden toy building block looming in the distance, high noon lighting, cast shadows, vintage 1970s toy style, classic cylindrical peg people with two dots for eyes and a small curved painted-on smile, simple solid primary color bodies, smooth glossy plastic and wooden textures, studio lighting, macro product toy photography, beautiful creative composition, tilt-shift lens look",
+    "poster_image_path": "./images/the-great-carpet-divide.png",
+    "github_image_url": "https://raw.githubusercontent.com/mtgedney/cinema-tycoon/main/images/the-great-carpet-divide.png"
+  },
+  {
+    "title": "Stuck in the Socket",
+    "tagline": "In this house, once you plug in, you never get out.",
+    "genre": "Horror",
+    "rating": "PG-13",
+    "runtime": 94,
+    "critic_rating": "2/5",
+    "synopsis": "An ensemble of peg people find themselves trapped in a yellow plastic school bus where the seats are slightly too tight for their wooden bases. As the toddler god drags the vehicle across the kitchen, they realize the circular plug holes are beginning to fuse with their feet.",
+    "fun_fact": "During production, three of the actors actually got stuck in the bus mold and had to be extracted with a pair of pliers.",
+    "poster_prompt": "Inside of a yellow plastic toy school bus, shadows of cylindrical peg figures with worried facial expressions, dim lighting through plastic windows, dusty playroom floor background, vintage 1970s toy style, classic cylindrical peg people with two dots for eyes and a small curved painted-on smile, simple solid primary color bodies, smooth glossy plastic and wooden textures, studio lighting, macro product toy photography, beautiful creative composition, tilt-shift lens look",
+    "poster_image_path": "./images/stuck-in-the-socket.png",
+    "github_image_url": "https://raw.githubusercontent.com/mtgedney/cinema-tycoon/main/images/stuck-in-the-socket.png"
+  },
+  {
+    "title": "The Vacuum Menace",
+    "tagline": "They saw the suction, and they couldn't run.",
+    "genre": "Sci-Fi",
+    "rating": "PG",
+    "runtime": 105,
+    "critic_rating": "5/5",
+    "synopsis": "When a rogue Roomba enters the living room, a fleet of blue and yellow peg astronauts must find a way to anchor themselves to the carpet before the terrifying abyss of the dust bin claims them all. Their lack of limbs makes holding onto the sofa leg an exercise in pure physics.",
+    "fun_fact": "The 'alien' vacuum cleaner was played by a household dust bunny that was spray-painted silver.",
+    "poster_prompt": "Three bright yellow peg astronauts holding onto a velvet fabric sofa leg, silver blurred motion of a machine in the background, primary color contrast, deep shadows, vintage 1970s toy style, classic cylindrical peg people with two dots for eyes and a small curved painted-on smile, simple solid primary color bodies, smooth glossy plastic and wooden textures, studio lighting, macro product toy photography, beautiful creative composition, tilt-shift lens look",
+    "poster_image_path": "./images/the-vacuum-menace.png",
+    "github_image_url": "https://raw.githubusercontent.com/mtgedney/cinema-tycoon/main/images/the-vacuum-menace.png"
+  },
+  {
+    "title": "Love in the Carry Case",
+    "tagline": "Separated by a plastic divider, but united by wood glue.",
+    "genre": "Romance",
+    "rating": "G",
+    "runtime": 88,
+    "critic_rating": "3/5",
+    "synopsis": "A green-hatted nurse and a red-hatted fireman share a passionate glance through the clear window of their shared plastic storage box. They spend the entire film trying to tip over so they can roll toward each other.",
+    "fun_fact": "The kissing scene was faked by having the two pegs vibrate against each other until their painted eyes scraped off.",
+    "poster_prompt": "Two peg people staring at each other through a transparent plastic divider, soft focus, warm light reflecting off glossy surfaces, checkerboard floor visible, vintage 1970s toy style, classic cylindrical peg people with two dots for eyes and a small curved painted-on smile, simple solid primary color bodies, smooth glossy plastic and wooden textures, studio lighting, macro product toy photography, beautiful creative composition, tilt-shift lens look",
+    "poster_image_path": "./images/love-in-the-carry-case.png",
+    "github_image_url": "https://raw.githubusercontent.com/mtgedney/cinema-tycoon/main/images/love-in-the-carry-case.png"
+  },
+  {
+    "title": "The Great Dog Encounter",
+    "tagline": "The slobber is coming.",
+    "genre": "Action",
+    "rating": "PG",
+    "runtime": 120,
+    "critic_rating": "4/5",
+    "synopsis": "A brave explorer must cross the kitchen floor while dodging a giant, slobbering Golden Retriever that keeps trying to swallow him whole. Our hero must use his sturdy, non-chewable plastic frame to survive the ultimate chew-toy gauntlet.",
+    "fun_fact": "The saliva on the pegs was simulated using industrial-grade transparent glue that took three days to scrape off.",
+    "poster_prompt": "A small green peg explorer looking up at a giant blurred furry paw, checkerboard floor, wet reflective surfaces on the plastic body, dramatic angle, vintage 1970s toy style, classic cylindrical peg people with two dots for eyes and a small curved painted-on smile, simple solid primary color bodies, smooth glossy plastic and wooden textures, studio lighting, macro product toy photography, beautiful creative composition, tilt-shift lens look",
+    "poster_image_path": "./images/the-great-dog-encounter.png",
+    "github_image_url": "https://raw.githubusercontent.com/mtgedney/cinema-tycoon/main/images/the-great-dog-encounter.png"
+  },
+  {
     "title": "The Great Plastic Caper",
     "tagline": "Stuck in the seat gap, nowhere to go.",
     "genre": "Action",
@@ -247,19 +312,6 @@
     "github_image_url": "/api/proxy-image?engine=huggingface&prompt=A%20single%20green%20cylindrical%20peg%20figure%20standing%20at%20the%20base%20of%20a%20giant%20wooden%20staircase%2C%20the%20stairs%20appearing%20like%20massive%20mountains%2C%20high-contrast%20lighting%2C%20vintage%201970s%20toy%20style%2C%20classic%20cylindrical%20peg%20people%20with%20two%20dots%20for%20eyes%20and%20a%20small%20curved%20painted-on%20smile%2C%20simple%20solid%20primary%20color%20bodies%2C%20smooth%20glossy%20plastic%20and%20wooden%20textures%2C%20studio%20lighting%2C%20macro%20product%20toy%20photography%2C%20beautiful%20creative%20composition%2C%20tilt-shift%20lens%20look&seed=9127&hfModel=black-forest-labs%2FFLUX.1-schnell"
   },
   {
-    "title": "Stuck in the Socket",
-    "tagline": "In the carpet, no one can hear you tip over.",
-    "genre": "Horror",
-    "rating": "PG-13",
-    "runtime": 92,
-    "critic_rating": "3/5",
-    "synopsis": "After being accidentally pushed under the sofa, a group of friends discovers the dark, lint-filled abyss where lost parts go to rot. They must avoid the predatory vacuum nozzle that threatens to suck them into a dimension of dust bunnies and terrifying hair ties.",
-    "fun_fact": "The actress playing the lead had to be pried out of a real floor vent with a butter knife three times during the production of the climax.",
-    "poster_prompt": "Dark shadows beneath a heavy wooden sofa, a single red peg-person peering out with wide dots for eyes, scattered lint and dust bunnies looming like monsters, a menacing vacuum hose in the background, vintage 1970s toy style, classic cylindrical peg people with two dots for eyes and a small curved painted-on smile, simple solid primary color bodies, smooth glossy plastic and wooden textures, studio lighting, macro product toy photography, beautiful creative composition, tilt-shift lens look",
-    "poster_image_path": "",
-    "github_image_url": "/api/proxy-image?engine=huggingface&prompt=Dark%20shadows%20beneath%20a%20heavy%20wooden%20sofa%2C%20a%20single%20red%20peg-person%20peering%20out%20with%20wide%20dots%20for%20eyes%2C%20scattered%20lint%20and%20dust%20bunnies%20looming%20like%20monsters%2C%20a%20menacing%20vacuum%20hose%20in%20the%20background%2C%20vintage%201970s%20toy%20style%2C%20classic%20cylindrical%20peg%20people%20with%20two%20dots%20for%20eyes%20and%20a%20small%20curved%20painted-on%20smile%2C%20simple%20solid%20primary%20color%20bodies%2C%20smooth%20glossy%20plastic%20and%20wooden%20textures%2C%20studio%20lighting%2C%20macro%20product%20toy%20photography%2C%20beautiful%20creative%20composition%2C%20tilt-shift%20lens%20look&seed=8745&hfModel=black-forest-labs%2FFLUX.1-schnell"
-  },
-  {
     "title": "Love in the Drive-Thru",
     "tagline": "She had a hat, he had a hitch, and they were stuck in the same plastic sedan.",
     "genre": "Romance",
@@ -388,19 +440,6 @@
     "poster_prompt": "A cluttered storage bin interior filled with vintage plastic toys and scattered peg-people, overhead industrial lighting, dusty aesthetic, gritty but vibrant, vintage 1970s toy style, classic cylindrical peg people with two dots for eyes and a small curved painted-on smile, simple solid primary color bodies, smooth glossy plastic and wooden textures, studio lighting, macro product toy photography, beautiful creative composition, tilt-shift lens look",
     "poster_image_path": "",
     "github_image_url": "/api/proxy-image?engine=huggingface&prompt=A%20cluttered%20storage%20bin%20interior%20filled%20with%20vintage%20plastic%20toys%20and%20scattered%20peg-people%2C%20overhead%20industrial%20lighting%2C%20dusty%20aesthetic%2C%20gritty%20but%20vibrant%2C%20vintage%201970s%20toy%20style%2C%20classic%20cylindrical%20peg%20people%20with%20two%20dots%20for%20eyes%20and%20a%20small%20curved%20painted-on%20smile%2C%20simple%20solid%20primary%20color%20bodies%2C%20smooth%20glossy%20plastic%20and%20wooden%20textures%2C%20studio%20lighting%2C%20macro%20product%20toy%20photography%2C%20beautiful%20creative%20composition%2C%20tilt-shift%20lens%20look&seed=9959&hfModel=black-forest-labs%2FFLUX.1-schnell"
-  },
-  {
-    "title": "The Great Carpet Divide",
-    "tagline": "A long road to the baseboard.",
-    "genre": "Western",
-    "rating": "G",
-    "runtime": 92,
-    "critic_rating": "4/5",
-    "synopsis": "A lone Sheriff peg must traverse the shag carpet canyon to save the saloon from a rogue rolling marble. His lack of knees proves fatal during a high-stakes standoff near the radiator.",
-    "fun_fact": "The desert heat was simulated by placing a desk lamp too close to the set, causing the Sheriff's yellow paint to permanently warp.",
-    "poster_prompt": "A lone red cylindrical peg figure wearing a molded plastic cowboy hat standing on a brown shag carpet surface, a large spherical marble looming in the background, sharp studio lighting, vintage 1970s toy style, classic cylindrical peg people with two dots for eyes and a small curved painted-on smile, simple solid primary color bodies, smooth glossy plastic and wooden textures, studio lighting, macro product toy photography, beautiful creative composition, tilt-shift lens look",
-    "poster_image_path": "",
-    "github_image_url": "/api/proxy-image?engine=sdwebui&prompt=A%20lone%20red%20cylindrical%20peg%20figure%20wearing%20a%20molded%20plastic%20cowboy%20hat%20standing%20on%20a%20brown%20shag%20carpet%20surface%2C%20a%20large%20spherical%20marble%20looming%20in%20the%20background%2C%20sharp%20studio%20lighting%2C%20vintage%201970s%20toy%20style%2C%20classic%20cylindrical%20peg%20people%20with%20two%20dots%20for%20eyes%20and%20a%20small%20curved%20painted-on%20smile%2C%20simple%20solid%20primary%20color%20bodies%2C%20smooth%20glossy%20plastic%20and%20wooden%20textures%2C%20studio%20lighting%2C%20macro%20product%20toy%20photography%2C%20beautiful%20creative%20composition%2C%20tilt-shift%20lens%20look&seed=1348&sdUrl=http%3A%2F%2F127.0.0.1%3A7860"
   },
   {
     "title": "Stuck in the Sub-Floor",
@@ -752,19 +791,6 @@
     "poster_prompt": "Two peg-people facing each other on a shiny white and red checkerboard floor, one with a blue hat and one with a red hat, a plastic toy heart accessory placed between them, vintage 1970s toy style, classic cylindrical peg people with two dots for eyes and a small curved painted-on smile, simple solid primary color bodies, smooth glossy plastic and wooden textures, studio lighting, macro product toy photography, beautiful creative composition, tilt-shift lens look",
     "poster_image_path": "",
     "github_image_url": "https://picsum.photos/seed/2431/400/550"
-  },
-  {
-    "title": "The Vacuum Menace",
-    "tagline": "The roar of the motor is the sound of your doom.",
-    "genre": "Horror",
-    "rating": "PG-13",
-    "runtime": 105,
-    "critic_rating": "5/5",
-    "synopsis": "An entire neighborhood of plastic peg-people watches in terror as a thundering mechanical beast with a rotating brush-roll begins swallowing everything in its path. With no limbs to hold onto the furniture, the residents must find a way to wedge themselves into the safety of a non-removable baseplate before they are sucked into the dust bin.",
-    "fun_fact": "The 'vacuum' sound effect was actually just a crew member humming loudly into a plastic cup while shaking a box of dry cereal.",
-    "poster_prompt": "A frightened peg-person leaning against a wooden table leg while a dark, shadowy silhouette of a vacuum nozzle looms in the background, a scattered pile of small wooden block toys nearby, dramatic low-key lighting, vintage 1970s toy style, classic cylindrical peg people with two dots for eyes and a small curved painted-on smile, simple solid primary color bodies, smooth glossy plastic and wooden textures, studio lighting, macro product toy photography, beautiful creative composition, tilt-shift lens look",
-    "poster_image_path": "",
-    "github_image_url": "https://picsum.photos/seed/7737/400/550"
   },
   {
     "title": "Pegs in Space",
