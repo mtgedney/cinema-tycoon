@@ -1,5 +1,44 @@
 [
   {
+    "title": "The Great Beyond: Under the Sofa Cushion",
+    "tagline": "In space, no one can hear you roll under the couch.",
+    "genre": "Sci-Fi",
+    "rating": "PG",
+    "runtime": 92,
+    "critic_rating": "4/5",
+    "synopsis": "After a sudden tremor caused by the Giant Toddler God, a brave wooden astronaut peg slips off the plastic play ramp and must navigate the dusty, lint-filled abyss beneath the sofa without any arms to climb back up.",
+    "fun_fact": "The lead actor's silver space-helmet paint began to peel after he was accidentally dropped into a cup of lukewarm apple juice during a lunch break.",
+    "poster_prompt": "A lone blue wooden peg astronaut with a molded silver helmet stands on a dusty dark wood surface looking towards a massive, towering orange fabric sofa cushion. A soft shaft of warm studio light cuts through the darkness, highlighting floating dust motes. In the background, a yellow plastic toy rocket ship lies tilted on its side, vintage 1970s toy style, classic cylindrical peg people with two dots for eyes and a small curved painted-on smile, simple solid primary color bodies, smooth glossy plastic and wooden textures, studio lighting, macro product toy photography, beautiful creative composition, tilt-shift lens look",
+    "poster_image_path": "./images/the-great-beyond-under-the-sofa-cushion.svg",
+    "github_image_url": "https://raw.githubusercontent.com/mtgedney/cinema-tycoon/main/images/the-great-beyond-under-the-sofa-cushion.svg"
+  },
+  {
+    "title": "No Hands for a Six-Shooter",
+    "tagline": "The fastest peg in the West has absolutely no way to pull the trigger.",
+    "genre": "Western",
+    "rating": "PG-13",
+    "runtime": 114,
+    "critic_rating": "3/5",
+    "synopsis": "Sheriff Blue-Coat, a limb-less peg with a molded brown cowboy hat, faces off against the notorious Outlaw Red-Peg in a tense showdown where both must stand perfectly still in their circular sidewalk slots and wait for the wind to knock one of them over.",
+    "fun_fact": "Production was delayed for three days when the entire town of 'Little Creek' (consisting of two yellow plastic barn doors) was accidentally packed away into a yellow vinyl carry-case.",
+    "poster_prompt": "Two solid-color peg people, one bright blue with a molded brown cowboy hat and one bright red with a black hat, face each other on a glossy yellow plastic checkerboard playmat. Behind them is a minimalist primary-colored Western town facade with a simple red barn. The sun is represented by a perfect yellow wooden circle on a cardboard backdrop, vintage 1970s toy style, classic cylindrical peg people with two dots for eyes and a small curved painted-on smile, simple solid primary color bodies, smooth glossy plastic and wooden textures, studio lighting, macro product toy photography, beautiful creative composition, tilt-shift lens look",
+    "poster_image_path": "./images/no-hands-for-a-six-shooter.svg",
+    "github_image_url": "https://raw.githubusercontent.com/mtgedney/cinema-tycoon/main/images/no-hands-for-a-six-shooter.svg"
+  },
+  {
+    "title": "The Maw of the Golden Retriever",
+    "tagline": "He is soft. He is friendly. He will chew you into a choking hazard.",
+    "genre": "Horror",
+    "rating": "R",
+    "runtime": 85,
+    "critic_rating": "5/5",
+    "synopsis": "When a quiet afternoon in the playroom is shattered by the arrival of a giant four-legged beast, a group of unsuspecting plastic pegs must survive being carried away in a wet, slobbery mouth and deposited into the terrifying dampness of the dog bed.",
+    "fun_fact": "The 'slobber' effects were achieved using actual glycerin, which unfortunately made the green-bodied father peg slip out of his circular minivan seat and slide under the refrigerator for three weeks.",
+    "poster_prompt": "A green wooden peg toy and a yellow wooden peg toy cower together inside a bright blue plastic car with thick black wheels, looking up in sheer terror. Towering over them in soft focus is the fuzzy golden snout of a giant dog, its mouth slightly open. The scene is set on a highly polished wooden floor with long shadows, vintage 1970s toy style, classic cylindrical peg people with two dots for eyes and a small curved painted-on smile, simple solid primary color bodies, smooth glossy plastic and wooden textures, studio lighting, macro product toy photography, beautiful creative composition, tilt-shift lens look",
+    "poster_image_path": "./images/the-maw-of-the-golden-retriever.svg",
+    "github_image_url": "https://raw.githubusercontent.com/mtgedney/cinema-tycoon/main/images/the-maw-of-the-golden-retriever.svg"
+  },
+  {
     "title": "The Great Carpet Abyss",
     "tagline": "In the land of shag, no one hears you tip over.",
     "genre": "Horror",
